@@ -31,27 +31,24 @@ pdf_dummy_files/
 ```
 
 # How to Use
-Clone this repository to your local machine:
-
-Bash
+* Clone this repository to your local machine:
+**Bash**
 git clone [https://github.com/BrijeshKumarJha/smart-pdf-merger.git](https://github.com/YourUsername/smart-pdf-merger.git)
-Navigate to the project directory:
 
-Bash
+* Navigate to the project directory:
+**Bash**
 cd smart-pdf-merger
-Install the required external library (pypdf):
 
-Bash
+* Install the required external library (pypdf):
+**Bash**
 pip install pypdf
-Run the script:
 
-Bash
+* Run the script:
+**Bash**
 python merger.py
 Follow the on-screen prompts to input your target folder and desired output name.
 
- Tech Stack
-Language: Python 3
-
-Core Library: pathlib (For extracting and handling paths)
-
-External Package: pypdf (For robust PDF reading, appending, and writing)
+**Tech Stack**
+* Language: Python 3
+* Core Library: pathlib (For extracting and handling paths)
+* External Package: pypdf (For robust PDF reading, appending, and writing)
