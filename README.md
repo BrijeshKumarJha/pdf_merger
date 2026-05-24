@@ -30,7 +30,7 @@ pdf_dummy_files/
 └── final_merged_book.pdf  <-- (The new combined file)
 ```
 
- How to Use
+# How to Use
 Clone this repository to your local machine:
 
 Bash
